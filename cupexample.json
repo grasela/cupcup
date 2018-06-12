@@ -1,0 +1,27 @@
+{
+    "model": "stellah",
+    "size" : "large",
+    "base" : {
+        "color" : "aqua",
+        "material": "plastic"
+    },
+    "lid" : {
+        "color" : "#800000",
+        "material" : "rubber"
+    },
+    "logo" : {
+        "url": ""
+    },
+    "band": {
+        "color": "#551A8B",
+        "material" : "plastic"
+    },
+    "price": 24000,
+    "priceHistory": [
+        3400,
+        4400,
+        5400,
+        6400
+    ]
+
+}    

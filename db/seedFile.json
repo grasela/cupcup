@@ -1,0 +1,111 @@
+[
+    {
+    "model": "stellah",
+    "size" : "large",
+    "base" : {
+        "color" : "aqua",
+        "material": "plastic"
+    },
+    "lid" : {
+        "color" : "#800000",
+        "material" : "rubber"
+    },
+    "logo" : {
+        "url": "https://eb28183c8ab560677c3e-e1971fcd0d2e078d25c6018dcaf7dd86.ssl.cf3.rackcdn.com/m_products_products_photo1/americano-takeaway-mug-red-black-134409.jpg"
+    },
+    "band": {
+        "color": "#551A8B",
+        "material" : "plastic"
+    },
+    "price": 24000,
+    "priceHistory": [
+        3400,
+        4400,
+        5400,
+        6400
+    ]
+
+},
+{
+    "model": "highflyer",
+    "size" : "large",
+    "base" : {
+        "color" : "blue",
+        "material": "glass"
+    },
+    "lid" : {
+        "color" : "black",
+        "material" : "lead"
+    },
+    "logo" : {
+        "url": "https://www.boostpromotions.co.nz/wp-content/uploads/2017/02/MAX-Takeaway-Cup-White-Ceramic-Black-TC100.jpg"
+    },
+    "band": {
+        "color": "aquamarine",
+        "material" : "glass"
+    },
+    "price": 21000,
+    "priceHistory": [
+        21000,
+        44000,
+        54000,
+        64002
+    ]
+
+},
+{
+    "model": "delilah",
+    "size" : "small",
+    "base" : {
+        "color" : "yellow",
+        "material": "plastic"
+    },
+    "lid" : {
+        "color" : "yellow",
+        "material" : "rubber"
+    },
+    "logo" : {
+        "url": "https://eb28183c8ab560677c3e-e1971fcd0d2e078d25c6018dcaf7dd86.ssl.cf3.rackcdn.com/m_products_products_photo/americano-takeaway-mug-white-blue-134355.jpg"
+    },
+    "band": {
+        "color": "orange",
+        "material" : "plastic"
+    },
+    "price": 26000,
+    "priceHistory": [
+        3400,
+        4400,
+        5400,
+        6400
+    ]
+
+},
+{
+    "model": "vessyl",
+    "size" : "medium",
+    "base" : {
+        "color" : "dodgerblue",
+        "material": "rubber"
+    },
+    "lid" : {
+        "color" : "black",
+        "material" : "plastic"
+    },
+    "logo" : {
+        "url": "https://cdnimg.webstaurantstore.com/images/products/extra_large/21840/710859.jpg"
+    },
+    "band": {
+        "color": "black",
+        "material" : "steel"
+    },
+    "price": 30000,
+    "priceHistory": [
+        34004,
+        44004,
+        54005,
+        64001
+    ]
+
+}     
+
+]
